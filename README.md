@@ -14,7 +14,7 @@ Central repository for SQL Server scripts used for administration, deployments, 
 - Always test in non-production first
 
 ## Naming Convention
-<category>_<purpose>_<object>.sql
+"<category>_<purpose>_<object>.sql"
 ex.:
 - admin_check_database_health.sql
 - perf_missing_indexes_analysis.sql
