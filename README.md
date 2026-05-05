@@ -15,7 +15,8 @@ Central repository for SQL Server scripts used for administration, deployments, 
 
 ## Naming Convention
 <category>_<purpose>_<object>.sql
-admin_check_database_health.sql
-perf_missing_indexes_analysis.sql
-troubleshoot_blocking_sessions.sql
-deploy_create_customer_table.sql
+ex.:
+- admin_check_database_health.sql
+- perf_missing_indexes_analysis.sql
+- troubleshoot_blocking_sessions.sql
+- deploy_create_customer_table.sql
